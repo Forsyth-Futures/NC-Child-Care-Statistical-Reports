@@ -1,4 +1,4 @@
-# North Carolina Child Care Statistical Report
+# North Carolina Child Care Statistical Reports
 
 The North Carolina Division of Child Development and Early Education's Statistical Detail Report is a 1000+ page monthly statement providing child care licensing data for each of the more than 9000 individual child care centers and family child care homes across NC. 
 
